@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WanngWan
+- 👋 Hi, I’m @WangWan
 - 👀 I’m interested in AI，cryptographic algorithm，hardware security, side-channel attcaks, fault attacks, ...
 - 🌱 I’m currently learning NLP and CV
 - 💞️ I’m looking to collaborate on NLP, CV or cryptographic security field.
